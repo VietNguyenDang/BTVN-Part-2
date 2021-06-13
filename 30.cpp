@@ -18,6 +18,8 @@ int main()
         {
             max2 = max1;
             max1 = k;
+        }else if(k>max2){
+            max2 = k;
         }
     }
     cout<<max2;
