@@ -23,5 +23,5 @@ int main()
             p-=3;
         }
     }
-    cout<<min(m,n);
+    cout<<m;
 }
